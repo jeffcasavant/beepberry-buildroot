@@ -1,4 +1,4 @@
-AERC_VERSION = 0.5.2
+AERC_VERSION = 0.17.0
 AERC_SOURCE = $(AERC_VERSION).tar.gz
 AERC_SITE = https://git.sr.ht/~rjarry/aerc/archive
 
